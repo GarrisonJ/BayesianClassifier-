@@ -3,7 +3,7 @@
 # Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
 
 class PyBay:
-	TokBad = {}	     # Bad tokens
+	TokBad = {}	 # Bad tokens
 	TokGood = {}	 # Good tokens	
 	TotalTok = 0	 # Count of total tokens
 	BadTokCount = 0  # Count of bad tokens
