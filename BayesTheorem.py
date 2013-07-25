@@ -16,7 +16,7 @@ class PyBay:
 	# Tokiens    -  String to be classified.
 	#
 	# Example
-	#	train("good", "This is a good string)
+	#	train("good", "This is a good string")
 	#	# => Will classify the string "This is a good string" as a good string.
 	#
 	# Returns null	
